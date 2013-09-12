@@ -25,7 +25,7 @@ var ____prototype_ae_IE9JumpList = ____prototype_ae_IE9JumpList || {};
 		staticTasks: [{ name: 'Twitter',  action: 'https%3a//twitter.com/danielthecoder', icon: 'https%3a//buildmypinnedsite.blob.core.windows.net/files/JumpList/af84d38e08534d48b7a40c52fdab79c9/Task2-favicon_twitter.ico', target: 'tab' },{ name: 'Blog',  action: 'http%3a//blog.danielthecoder.net', icon: 'https%3a//buildmypinnedsite.blob.core.windows.net/files/JumpList/fc4b16a8ab684ab3beb97f345e38b379/Task0-favicon.ico', target: 'tab' },{ name: 'LinkedIn',  action: 'http%3a//at.linkedin.com/pub/daniel-sack/20/8b0/729', icon: 'https%3a//buildmypinnedsite.blob.core.windows.net/files/JumpList/20460059c3dd4d2899cea0b253a0413b/Task3-favicon_linkedIn.ico', target: 'tab' },{ name: 'Xing',  action: 'https%3a//www.xing.com/profile/Daniel_Sack4', icon: 'https%3a//buildmypinnedsite.blob.core.windows.net/files/JumpList/7ee0ce936a0c4d2196c00781e009c4c3/Task4-favicon_xing.ico', target: 'tab' },{ name: 'Github',  action: 'https%3a//github.com/DanielTheCoder', icon: 'https%3a//buildmypinnedsite.blob.core.windows.net/files/JumpList/4c02e84a3bda4231a76c99fe54dddf24/Task1-favicon_github.ico', target: 'tab' }],
 		
 		// Drag and drop site pinning bar		
-		prompt: true, // Add a site pinning bar on top of my site pages
+		prompt: false, // Add a site pinning bar on top of my site pages
 		barSiteName: 'danielthecoder.net ' // Site name as it should appear on the pinning bar
 	};
 	
